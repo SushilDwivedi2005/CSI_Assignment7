@@ -1,3 +1,6 @@
+# CSI_Assignment7
+simple full-stack Todo App with JWT authentication using the MERN stack
+
 # 🛡️ JWT Auth Todo App
 
 A simple full-stack Todo App with JWT authentication using the MERN stack.
@@ -14,5 +17,4 @@ A simple full-stack Todo App with JWT authentication using the MERN stack.
 - Protected todo routes
 - CRUD operations on todos (Add, Edit, Delete, Toggle)
 
-# CSI_Assignment7
-simple full-stack Todo App with JWT authentication using the MERN stack
+
