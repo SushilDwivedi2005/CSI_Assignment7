@@ -14,8 +14,5 @@ A simple full-stack Todo App with JWT authentication using the MERN stack.
 - Protected todo routes
 - CRUD operations on todos (Add, Edit, Delete, Toggle)
 
-## 🚀 Getting Started
-
-### 1. Start MongoDB locally:
 # CSI_Assignment7
 simple full-stack Todo App with JWT authentication using the MERN stack
